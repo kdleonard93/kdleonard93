@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/kyle-leonard93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyle-leonard93/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@kdleonard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kdleonard" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/GQQhudxb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GQQhudxb" height="30" width="40" /></a>
-<a href="/https://blacknerd.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blacknerd.dev/rss.xml" height="30" width="40" /></a>
+<a href="/https://blacknerd.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blacknerd.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdleonard93&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&bg_color=008080&locale=en" alt="kdleonard93" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdleonard93&" alt="kdleonard93" /></p>
-
 
 <!---
 kdleonard93/kdleonard93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
