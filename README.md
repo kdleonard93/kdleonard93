@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Leonard</h1>
-<h3 align="center">A passionate frontend dJust a man trying to code my life into existence. Currently a front-end dev and trying to get better at backend to become a full-stack developer.</h3>
+<h3 align="center">Just a man trying to code my life into existence. Currently a front-end dev and trying to get better at backend to become a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdleonard93&label=Profile%20views&color=0e807a&style=flat" alt="kdleonard93" /> </p>
 
