@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyle Leonard</h1>
+kdleonard93<h1 align="center">Hi 👋, I'm Kyle Leonard</h1>
 <h3 align="center">Just a man trying to code my life into existence. Currently a front-end dev and trying to get better at backend to become a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdleonard93&label=Profile%20views&color=0e807a&style=flat" alt="kdleonard93" /> </p>
@@ -27,10 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdleonard93&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&bg_color=008078&hide_border=true&locale=en&layout=compact" alt="kdleonard93" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdleonard93&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&bg_color=008080&locale=en" alt="kdleonard93" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdleonard93&" alt="kdleonard93" /></p>
-
 
 
 <!---
