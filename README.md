@@ -9,6 +9,8 @@ kdleonard93<h1 align="center">Hi 👋, I'm Kyle Leonard</h1>
 
 - 👯 I’m looking to collaborate on **mostly small projects for now since i'm working on my own large scale app.**
 
+- 🔐 Interested in learning more about Cyber Security (might even aim for a degree)
+  
 - 📫 How to reach me **contact@digitaldopamine.dev**
 
 <h3 align="left">Connect with me:</h3>
