@@ -5,7 +5,7 @@ kdleonard93<h1 align="center">Hi 👋, I'm Kyle Leonard</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdleonard93" alt="kdleonard93" /></a> </p>
 
-- 🔭 I’m currently working on a small scale finance app to gain understanding how apps of that sort work. I have a blog where I post about  my journey (https://blacknerd.dev)
+- 🔭 I’m currently working on a small scale finance app to gain understanding how apps of that sort work. I have a blog where I post about  my journey (https://blacknerd.dev).
 
 - 👯 I’m looking to collaborate on **mostly small projects for now since i'm working on my own large scale app.**
 
