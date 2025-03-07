@@ -2,7 +2,7 @@
 <h3 align="center">Just a man trying to code my life into existence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdleonard93&label=Profile%20views&color=0e807a&style=flat" alt="kdleonard93" /> </p> 
-<p align="left">![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/kdleonard93/creatures-of-habit?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)</p>
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/kdleonard93/creatures-of-habit?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdleonard93" alt="kdleonard93" /></a> </p>
 
 
