@@ -10,14 +10,13 @@
 
 - 👯 I’m looking to collaborate on **mostly small projects for now since i'm working on my own large scale app.**
 
-- 🔐 Interested in learning more about Cyber Security (might even aim for a degree)
+- 🔐 Interested in learning more about Cyber Security (might even aim for a cert)
   
 - 📫 How to reach me **contact@digitaldopamine.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kdleonard93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kdleonard93" height="30" width="40" /></a>
-<a href="https://twitter.com/ringomandingo93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ringomandingo93" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kyle-leonard93/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyle-leonard93/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@kdleonard" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kdleonard" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/GQQhudxb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GQQhudxb" height="30" width="40" /></a>
