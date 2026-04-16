@@ -5,7 +5,8 @@
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/kdleonard93/creatures-of-habit?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)
 
-- 🐉 Currently building **[Creatures of Habit](https://github.com/kdleonard93/creatures-of-habit)** — a gamified habit tracker with quests, character progression, and stat systems built with SvelteKit, TypeScript, and Drizzle ORM.
+- 🐉 Recently built **[Creatures of Habit](https://github.com/kdleonard93/creatures-of-habit)** — a gamified habit tracker with quests, character progression, and stat systems built with SvelteKit, TypeScript, and Drizzle ORM.
+  - Link to the app -> **[Creatures of Habit App](https://creatures-of-habit-production.up.railway.app)** (might need to refresh after initial load if you get a bad gateway error. Blame Railway 😅) 
 
 - 👯 I'm looking to collaborate on **mostly small projects for now since I'm working on my own large scale app.**
 
