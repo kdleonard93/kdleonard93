@@ -9,8 +9,6 @@
   - Link to the app -> **[Creatures of Habit App](https://creatures-of-habit-production.up.railway.app)** (might need to refresh after initial load if you get a bad gateway error. Blame Railway 😅) 
 
 - 👯 I'm looking to collaborate on **mostly small projects for now since I'm working on my own large scale app.**
-
-- 🔐 Interested in learning more about Cyber Security (might even aim for a cert)
   
 - 📫 How to reach me **contact@digitaldopamine.dev**
 
