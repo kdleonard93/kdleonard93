@@ -8,7 +8,7 @@
 - 🐉 Recently built **[Creatures of Habit](https://github.com/kdleonard93/creatures-of-habit)** — a gamified habit tracker with quests, character progression, and stat systems built with SvelteKit, TypeScript, and Drizzle ORM.
   - Link to the app -> **[Creatures of Habit App](https://creatures-of-habit-production.up.railway.app)** (might need to refresh after initial load if you get a bad gateway error. Blame Railway 😅) 
 
-- 👯 I'm looking to collaborate on **mostly small projects for now since I'm working on my own large scale app.**
+- 👯 Open to collaborate
   
 - 📫 How to reach me **contact@digitaldopamine.dev**
 
