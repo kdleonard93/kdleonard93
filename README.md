@@ -10,7 +10,7 @@
 
 - 👯 Open to collaborate
   
-- 📫 How to reach me **contact@digitaldopamine.dev** or via LinkedIn (badge is below)
+- 📫 How to reach me **contact@digitaldopamine.dev** or via any of my socials!
 
 <h3 align="left">Connect with me:</h3>
 
